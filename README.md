@@ -71,10 +71,10 @@
 
 <p align="center">
   <a href="https://github.com/alpertuncortak">
-    <img src="https://github-readme-stats.vercel.app/api?username=alpertuncortak&show_icons=true&theme=dracula" alt="Alper's GitHub Stats" />
+    <img src="https://github-readme-stats-tau-six.vercel.app/api?username=alpertuncortak&show_icons=true&theme=dracula" alt="Alper's GitHub Stats" />
   </a>
   <a href="https://github.com/alpertuncortak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpertuncortak&layout=compact&theme=dracula" alt="Top Languages" />
+    <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=alpertuncortak&layout=compact&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
@@ -83,9 +83,5 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake.svg">
 </p>
