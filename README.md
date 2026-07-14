@@ -2,7 +2,7 @@
 **alpertuncortak/alpertuncortak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hi there, I'm Alper Tunc Ortak 👋</h1>
+<h1 align="center">Hi there, I'm Alper Tunc Ortak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" align="center" /></h1>
 <h3 align="center">Computer Engineering Student & Full-Stack Developer</h3>
 
 <p align="center">
@@ -16,17 +16,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="30" height="30" align="center" /> About Me
 
-- 🎓 Currently pursuing a **BSc in Computer Engineering** at *Vistula University* in Warsaw, Poland.
-- 💼 Gaining hands-on experience in **full-stack development**, **real-time data pipelines**, and **AI integrations**.
-- 🛠️ Previously worked in **System Administration**, **Web Development**, and **Cybersecurity**.
-- 🌱 Strong interest in **Python development**, **Relational Databases (SQL)**, and building scalable backends.
-- ⚡ In my free time, I build Web3 tools and explore the decentralized ecosystem.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" align="center" /> Currently pursuing a **BSc in Computer Engineering** at *Vistula University* in Warsaw, Poland.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" align="center" /> Gaining hands-on experience in **full-stack development**, **real-time data pipelines**, and **AI integrations**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" align="center" /> Previously worked in **System Administration**, **Web Development**, and **Cybersecurity**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" align="center" /> Strong interest in **Python development**, **Relational Databases (SQL)**, and building scalable backends.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" align="center" /> In my free time, I build Web3 tools and explore the decentralized ecosystem.
 
 ---
 
-### 🚀 Technical Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" align="center" /> Technical Arsenal
 
 **Languages**
 <p>
@@ -58,7 +58,7 @@
 
 ---
 
-### 🏆 Featured Project
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" align="center" /> Featured Project
 
 **[CryptoNeko - Web3 Portfolio Tracker & DeFi Dashboard](https://www.cryptoneko.online)**
 - High-performance Python (FastAPI) backend handling WebSockets for real-time financial analytics.
@@ -67,7 +67,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" align="center" /> GitHub Stats
 
 <p align="center">
   <a href="https://github.com/alpertuncortak">
