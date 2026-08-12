@@ -3,7 +3,9 @@
 -->
 
 <h1 align="center">Hi there, I'm Alper Tunc Ortak <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" align="center" /></h1>
-<h3 align="center">Computer Engineering Student & Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Full-Stack+Developer;Web3+%26+Python+Enthusiast" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.alperortak.dev" target="_blank">
@@ -75,6 +77,11 @@
   </a>
   <a href="https://github.com/alpertuncortak">
     <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=alpertuncortak&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alpertuncortak">
+    <img src="https://streak-stats.demolab.com?user=alpertuncortak&theme=dracula&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
