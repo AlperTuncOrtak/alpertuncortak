@@ -25,6 +25,7 @@
 - Focused on building a career as a **Data Analyst**, with hands-on experience in **SQL**, **Python**, and **data pipeline development**.
 - Enjoy working with data end-to-end; detail-oriented by nature and an approachable communicator.
 - Previously automated employee record matching and data import using **Python** and **MSSQL** queries as a System Administration Intern.
+- Highly leverage **AI Tools & Prompt Engineering** to accelerate problem-solving, eliminate redundant tasks, and prevent unnecessary time loss.
 
 ---
 
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
