@@ -2,7 +2,7 @@
 <h1 align="center">Alper Tunc Ortak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Data+Analyst;Python+%26+SQL+Developer;Data+Pipelines+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Engineering+Student;Python+%26+Backend+Development;Building+Web+Apps+%26+Data+Tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
 ### About Me
 
 - Currently pursuing a **BSc in Computer Engineering** at *Vistula University* in Warsaw, Poland.
-- Focused on building a career as a **Data Analyst**, with hands-on experience in **SQL**, **Python**, and **data pipeline development**.
-- Enjoy working with data end-to-end; detail-oriented by nature and an approachable communicator.
+- Interested in software development broadly: backend services, web apps, and working with data. Still exploring which area to specialize in.
+- Hands-on experience with **Python**, **SQL**, and **FastAPI**; detail-oriented by nature and an approachable communicator.
 - Previously automated employee record matching and data import using **Python** and **MSSQL** queries as a System Administration Intern.
-- Highly leverage **AI Tools & Prompt Engineering** to accelerate problem-solving, eliminate redundant tasks, and prevent unnecessary time loss.
+- Use **AI tools** and **prompt engineering** to speed up problem-solving and automate repetitive work.
 
 ---
 
 ### Technical Skills
 
-**Data Analysis & Programming**
+**Languages & Libraries**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -60,15 +60,10 @@
 
 <p align="center">
   <a href="https://github.com/alpertuncortak">
-    <img src="https://github-readme-stats-tau-six.vercel.app/api?username=alpertuncortak&show_icons=true&theme=dracula" alt="Alper's GitHub Stats" />
+    <img src="https://github-readme-stats-tau-six.vercel.app/api?username=alpertuncortak&show_icons=true&theme=dracula&hide=issues,contribs" alt="Alper's GitHub Stats" />
   </a>
   <a href="https://github.com/alpertuncortak">
     <img src="https://github-readme-stats-tau-six.vercel.app/api/top-langs/?username=alpertuncortak&layout=compact&theme=dracula" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/alpertuncortak">
-    <img src="https://streak-stats.demolab.com?user=alpertuncortak&theme=dracula&hide_border=false" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -77,5 +72,8 @@
 </p>
 
 <p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlperTuncOrtak/alpertuncortak/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
